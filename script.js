@@ -77,7 +77,7 @@ function deleteLast(){
 }
 
 function developer(){
-    alert("Developer Information\n\nName: Jessel Zapanta\nRole: Programmer\nTechnology: HTML, CSS, JavaScript");
+    alert("Developer Information\n\nName: Jessel Zapanta\nRole: Programmer\nCourse: MSIT1");
 }
 
 function about(){
